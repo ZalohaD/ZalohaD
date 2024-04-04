@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Back end Developer at <a href="https://empat.tech">Empat</a><br>🤝 Can help with Wordpress <br>😍 Also can help with web design <br>🌱 I’m currently learning React.js for Wordpress<br>
+🔭 Back end Developer at <a href="https://empat.tech">Empat</a><br>🤝 Can help with Wordpress <br>🌱 I’m currently learning Laravels<br>
 
 
 ## 🌐 Socials:
